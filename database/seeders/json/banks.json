@@ -1,0 +1,8 @@
+[
+    {
+        "name": "BNM",
+        "description": "Banca națională a Moldovei",
+        "code": "bnm",
+        "enabled": true
+    }
+]
