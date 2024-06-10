@@ -2,15 +2,10 @@
 
 namespace App\Service;
 
-use App\Enums\Bank as BankEnum;
-use App\Models\Bank;
-use App\Models\Currency;
 use App\Models\ExchangeRate;
 use Carbon\Carbon;
 use Exception;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
-use Illuminate\Support\Facades\Http;
-use Illuminate\Support\Facades\Log;
 
 class ExchangeRateService
 {
