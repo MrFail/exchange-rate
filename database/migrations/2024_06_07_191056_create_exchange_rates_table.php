@@ -17,7 +17,6 @@ return new class extends Migration
             $table->id();
             $table->date('exchange_rate_date')->nullable();
             $table->decimal('value', 8, 4);
-            $table->decimal('change_since_yesterday', 8, 4);
             $table->foreignIdFor(Currency::class)->constrained();
             $table->foreignIdFor(Bank::class)->constrained();
             $table->timestamps();
