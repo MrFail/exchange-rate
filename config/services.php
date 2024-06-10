@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'bnm' => [
+        'exchange_rate_url' => env('BNM_EXCHANGE_RATE_URL', 'test'),
+    ],
+
 ];
