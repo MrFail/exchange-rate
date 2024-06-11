@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Euro",
+        "code": "EUR",
+        "number_code": "978",
+        "enabled": true
+    },
+    {
+        "name": "Dolar S.U.A.",
+        "code": "USD",
+        "number_code": "840",
+        "enabled": true
+    },
+    {
+        "name": "Rubla ruseasca",
+        "code": "RUB",
+        "number_code": "643",
+        "enabled": true
+    },
+    {
+        "name": "Leu romanesc",
+        "code": "RON",
+        "number_code": "946",
+        "enabled": true
+    },
+    {
+        "name": "Hrivna ucraineana",
+        "code": "UAH",
+        "number_code": "980",
+        "enabled": true
+    },
+    {
+        "name": "Dirham E.A.U.",
+        "code": "AED",
+        "number_code": "784",
+        "enabled": true
+    },
+    {
+        "name": "Lek albanez",
+        "code": "ALL",
+        "number_code": "008",
+        "enabled": true
+    },
+    {
+        "name": "Dram armenesc",
+        "code": "AMD",
+        "number_code": "051",
+        "enabled": true
+    },
+    {
+        "name": "Dolar australian",
+        "code": "AUD",
+        "number_code": "036",
+        "enabled": true
+    },
+    {
+        "name": "Manat azer",
+        "code": "AZN",
+        "number_code": "944",
+        "enabled": true
+    },
+    {
+        "name": "Leva bulgara",
+        "code": "BGN",
+        "number_code": "975",
+        "enabled": true
+    },
+    {
+        "name": "Rubla belarusa",
+        "code": "BYN",
+        "number_code": "933",
+        "enabled": true
+    },
+    {
+        "name": "Dolar canadian",
+        "code": "CAD",
+        "number_code": "124",
+        "enabled": true
+    },
+    {
+        "name": "Franc elvetian",
+        "code": "CHF",
+        "number_code": "756",
+        "enabled": true
+    },
+    {
+        "name": "Yuan Renminbi chinezesc",
+        "code": "CNY",
+        "number_code": "156",
+        "enabled": true
+    },
+    {
+        "name": "Coroana ceha",
+        "code": "CZK",
+        "number_code": "203",
+        "enabled": true
+    },
+    {
+        "name": "Coroana daneza",
+        "code": "DKK",
+        "number_code": "208",
+        "enabled": true
+    },
+    {
+        "name": "Lira sterlina",
+        "code": "GBP",
+        "number_code": "826",
+        "enabled": true
+    },
+    {
+        "name": "Lari georgian",
+        "code": "GEL",
+        "number_code": "981",
+        "enabled": true
+    },
+    {
+        "name": "Dolar Hong Kong",
+        "code": "HKD",
+        "number_code": "344",
+        "enabled": true
+    },
+    {
+        "name": "Forint ungar",
+        "code": "HUF",
+        "number_code": "348",
+        "enabled": true
+    },
+    {
+        "name": "Shekel israelian",
+        "code": "ILS",
+        "number_code": "376",
+        "enabled": true
+    },
+    {
+        "name": "Rupia indiana",
+        "code": "INR",
+        "number_code": "356",
+        "enabled": true
+    },
+    {
+        "name": "Coroana islandeza",
+        "code": "ISK",
+        "number_code": "352",
+        "enabled": true
+    },
+    {
+        "name": "Yen japonez",
+        "code": "JPY",
+        "number_code": "392",
+        "enabled": true
+    },
+    {
+        "name": "Som kirghiz",
+        "code": "KGS",
+        "number_code": "417",
+        "enabled": true
+    },
+    {
+        "name": "Won sud-coreean",
+        "code": "KRW",
+        "number_code": "410",
+        "enabled": true
+    },
+    {
+        "name": "Dinar kuweitian",
+        "code": "KWD",
+        "number_code": "414",
+        "enabled": true
+    },
+    {
+        "name": "Tenghe kazah",
+        "code": "KZT",
+        "number_code": "398",
+        "enabled": true
+    },
+    {
+        "name": "Denar macedonian",
+        "code": "MKD",
+        "number_code": "807",
+        "enabled": true
+    },
+    {
+        "name": "Ringgit malayezian",
+        "code": "MYR",
+        "number_code": "458",
+        "enabled": true
+    },
+    {
+        "name": "Coroana norvegiana",
+        "code": "NOK",
+        "number_code": "578",
+        "enabled": true
+    },
+    {
+        "name": "Dolar neozeelandez",
+        "code": "NZD",
+        "number_code": "554",
+        "enabled": true
+    },
+    {
+        "name": "Zlot polonez",
+        "code": "PLN",
+        "number_code": "985",
+        "enabled": true
+    },
+    {
+        "name": "Dinar sirb",
+        "code": "RSD",
+        "number_code": "941",
+        "enabled": true
+    },
+    {
+        "name": "Coroana suedeza",
+        "code": "SEK",
+        "number_code": "752",
+        "enabled": true
+    },
+    {
+        "name": "Somoni tadjic",
+        "code": "TJS",
+        "number_code": "972",
+        "enabled": true
+    },
+    {
+        "name": "Manat turkmen",
+        "code": "TMT",
+        "number_code": "934",
+        "enabled": true
+    },
+    {
+        "name": "Lira turceasca",
+        "code": "TRY",
+        "number_code": "949",
+        "enabled": true
+    },
+    {
+        "name": "Sum uzbek",
+        "code": "UZS",
+        "number_code": "860",
+        "enabled": true
+    },
+    {
+        "name": "D.S.T.",
+        "code": "XDR",
+        "number_code": "960",
+        "enabled": true
+    }
+]
